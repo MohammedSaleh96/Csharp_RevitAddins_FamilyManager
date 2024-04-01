@@ -1,0 +1,10 @@
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp_add.addin
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp.dll
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp.pdb
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.csproj.AssemblyReference.cache
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.g.resources
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.csproj.CoreCompileInputs.cache
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.dll
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.pdb
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.WinForm.Form1.resources
+C:\Users\msale\Desktop\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.csproj.GenerateResource.cache
